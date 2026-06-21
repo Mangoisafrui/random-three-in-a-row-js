@@ -1,5 +1,4 @@
-# random-three-in-a-row
-# Three-in-a-Row (React)
+# random-three-in-a-row(react)
 
 A React implementation of the Three-in-a-Row puzzle game with sample and random grid modes.
 
